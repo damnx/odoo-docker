@@ -6,3 +6,8 @@
 dòng : addons_path = /usr/lib/python3/dist-packages/odoo/addons,/mnt/extra-addons
 
 khi build xong dòng addons_path đã có addons_path = /usr/lib/python3/dist-packages/odoo/addons chỉ cần thêm ,/mnt/extra-addons
+
+
+build docker
+
+docker-compose up -d 
